@@ -15,18 +15,29 @@
     .flexible-container{
             display: flex;
             margin-bottom: 150px;
-        }
-        .half-width{
+    }
+    .half-width{
             width: 50%;
-            padding-left: 5%;
-         }
-         .link-button{
+            padding-left: 3%;
+            padding-right: 2%;
+    }
+    .link-button{
              text-decoration: none;
-             background-color:rgb(218, 80, 30);
+             background-color:rgb(245, 106, 55);
              padding: 10px 40px;
              color: white;
              font-weight: 700;
              border-radius: 5px;
+    }
+    .half-width img{
+        width: 80%;
+    }
+    .frame-set{
+        background-image: url(images/7.png);
+    }
+
+
             
             
-        }
+        
+
