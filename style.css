@@ -35,6 +35,39 @@
     .frame-set{
         background-image: url(images/7.png);
     }
+    
+    .for-center{
+        text-align: center;
+    }
+    .triple-width{
+        width: 40%;
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 20px;
+        border-radius: 20px;
+        box-shadow: 10px 10px 40px gray;
+    }
+    .row-box{
+        width: 30%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 70px;
+        border-radius: 5px;
+        box-shadow:10px 10px 10px 10px gray;
+    }
+    .position{
+        height: 5cm;
+        text-align: center;
+        background-color:black;
+        display: block;
+
+    }
+    .white-color{
+        color: white;
+    }
+
+    
 
 
             
