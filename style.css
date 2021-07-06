@@ -40,11 +40,13 @@
         text-align: center;
     }
     .triple-width{
-        width: 40%;
-        margin-top: 5%;
+        i
+        width: 50%;
+        margin-top:5%;
         margin-left: 5%;
         margin-right: 5%;
         padding-left: 20px;
+        padding-top:20%;
         border-radius: 20px;
         box-shadow: 10px 10px 40px gray;
     }
@@ -66,6 +68,43 @@
     .white-color{
         color: white;
     }
+    #img-1{
+        background-image: url(images/food/1st.jpg);
+        width:50%;
+        width:50%;
+        height: 5cm;
+        margin-left: 50px;
+        background-size: 300px;
+        background-repeat: no-repeat;
+        background-position: top;
+        
+       
+        
+        
+        
+    }
+    #img-2{
+        background-image: url(images/food/2.jpg);
+        width:50%;
+        height: 5cm;
+        margin-left:50px;
+        background-size: 300px;
+        background-repeat: no-repeat;
+        background-position: top;
+        
+    }
+       
+    #img-3{
+        background-image: url(images/food/3.png);
+        width:50%;
+        height: 5cm;
+        margin-right: 50px;
+        background-size: 300px;
+        background-repeat: no-repeat;
+        background-position: top;
+        
+    }
+       
 
     
 
